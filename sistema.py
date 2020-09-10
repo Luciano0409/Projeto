@@ -5,4 +5,7 @@ while numero > 0:
     print(numero)
     numero = numero - 1
 
-print("Tenho foooooome")    
+print("Tenho foooooome")
+
+calc = numero + 10
+print("Valor de calc: ", calc)
